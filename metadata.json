@@ -1,0 +1,5 @@
+{
+  "name": "Transcript-Driven Insights Map",
+  "description": "A prototype web application for Product Managers to paste conversation transcripts and use AI to extract, visualize, and map Signals, Insights, Opportunities, and Ideas to OKRs.",
+  "requestFramePermissions": []
+}
